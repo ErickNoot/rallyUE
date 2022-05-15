@@ -1955,3 +1955,1389 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.15-01.44.11:927][835]AssetCheck: New page: Asset Save: multiple assets
 [2022.05.15-01.44.11:927][835]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
 [2022.05.15-01.44.11:928][835]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2022.05.15-01.47.31:284][575]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{caee3c3d-3311-4d61-b0c7-e36e793bca3b}.
+[2022.05.15-01.47.31:284][575]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.15-01.47.31:314][575]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-01.47.31:314][575]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-16.57.02:079][582]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.05.15-16.57.02:908][582]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.15-16.57.03:752][582]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-16.57.03:752][582]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-16.57.03:825][583]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.15-16.57.03:857][583]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-16.57.03:858][583]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-16.57.06:105][590]LogHttp: Warning: 0000015A4BC10800: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB32AFD3E-46A4-5C73-B80E-1393128B768E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=fe9dd5894585306dea13f2871a335c4a%7Cbfef50d039b44310adb408a2d4e210f4%7Ca3fc3420-bcdd-4bf2-b635-b7522e0eb009&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.05.15-16.57.06:112][590]LogHttp: Warning: 0000015A4BC10800: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.05.15-16.57.06:112][590]LogHttp: Warning: 0000015A4BC10800: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x15923c8dae0 [can pipeline])
+[2022.05.15-16.57.06:112][590]LogHttp: Warning: 0000015A4BC10800: libcurl info message cache 1 (Re-using existing connection! (#4) with host datarouter.ol.epicgames.com)
+[2022.05.15-16.57.06:112][590]LogHttp: Warning: 0000015A4BC10800: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.21.40.103) port 443 (#4))
+[2022.05.15-16.57.06:112][590]LogHttp: Warning: 0000015A4BC10800: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.05.15-16.57.06:112][590]LogHttp: Warning: 0000015A4BC10800: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.05.15-16.57.06:112][590]LogHttp: Warning: 0000015A4BC10800: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.05.15-16.57.06:112][590]LogHttp: Warning: 0000015A4BC10800: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.05.15-16.57.06:112][590]LogHttp: Warning: 0000015A4BC10800: libcurl info message cache 7 (Closing connection 4)
+[2022.05.15-16.57.06:115][590]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB32AFD3E-46A4-5C73-B80E-1393128B768E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=fe9dd5894585306dea13f2871a335c4a%7Cbfef50d039b44310adb408a2d4e210f4%7Ca3fc3420-bcdd-4bf2-b635-b7522e0eb009&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.05.15-16.57.47:936][712]LogEditorViewport: Clicking on Actor (context menu): carro_C (carro)
+[2022.05.15-18.25.16:464][555]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{caee3c3d-3311-4d61-b0c7-e36e793bca3b}.
+[2022.05.15-18.25.16:464][555]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.15-18.25.16:638][555]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-18.25.16:638][555]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-18.25.19:503][564]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.15-18.59.25:686][564]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-18.59.25:686][564]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-18.59.25:753][565]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.15-18.59.26:262][565]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-18.59.26:262][565]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-18.59.26:793][568]LogHttp: Warning: 0000015A00316B00: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB32AFD3E-46A4-5C73-B80E-1393128B768E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=fe9dd5894585306dea13f2871a335c4a%7Cbfef50d039b44310adb408a2d4e210f4%7Ca3fc3420-bcdd-4bf2-b635-b7522e0eb009&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.05.15-18.59.26:793][568]LogHttp: Warning: 0000015A00316B00: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.05.15-18.59.26:793][568]LogHttp: Warning: 0000015A00316B00: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x15923c8d5d0 [can pipeline])
+[2022.05.15-18.59.26:817][568]LogHttp: Warning: 0000015A00316B00: libcurl info message cache 1 (Re-using existing connection! (#5) with host datarouter.ol.epicgames.com)
+[2022.05.15-18.59.26:817][568]LogHttp: Warning: 0000015A00316B00: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.54.106.10) port 443 (#5))
+[2022.05.15-18.59.26:817][568]LogHttp: Warning: 0000015A00316B00: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.05.15-18.59.26:817][568]LogHttp: Warning: 0000015A00316B00: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.05.15-18.59.26:817][568]LogHttp: Warning: 0000015A00316B00: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.05.15-18.59.26:817][568]LogHttp: Warning: 0000015A00316B00: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.05.15-18.59.26:817][568]LogHttp: Warning: 0000015A00316B00: libcurl info message cache 7 (Closing connection 5)
+[2022.05.15-18.59.26:817][568]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB32AFD3E-46A4-5C73-B80E-1393128B768E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=fe9dd5894585306dea13f2871a335c4a%7Cbfef50d039b44310adb408a2d4e210f4%7Ca3fc3420-bcdd-4bf2-b635-b7522e0eb009&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.05.15-19.33.20:553][309]LogUObjectHash: Compacting FUObjectHashTables data took  88.98ms
+[2022.05.15-19.33.20:882][309]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 3.893
+[2022.05.15-19.33.21:003][309]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/scrits/rodas] ([2] browsable assets)...
+[2022.05.15-19.33.21:003][309]OBJ SavePackage: Finished generating thumbnails for package [/Game/scrits/rodas]
+[2022.05.15-19.33.21:003][309]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Saved/Autosaves/Game/scrits/rodas_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.05.15-19.33.21:514][309]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas_Auto5F014B04542039DD2C61C09BB01DCDB4E.tmp' to 'S:/projetos/rallyUE/brally/Saved/Autosaves/Game/scrits/rodas_Auto5.uasset'
+[2022.05.15-19.33.21:700][309]LogFileHelpers: Auto-saving content packages took 0.757
+[2022.05.15-19.35.56:311][143]BlueprintLog: New page: Compilar rodas
+[2022.05.15-19.35.57:981][143]LogUObjectHash: Compacting FUObjectHashTables data took   4.08ms
+[2022.05.15-19.35.58:977][214]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-19.35.59:003][214]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas3169AD8E459992543C31BE80581F091F.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-19.36.02:414][214]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-19.36.02:414][214]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-19.37.30:267][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-19.37.30:280][732]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas1BD914E949D3119978CF938DBE23FF3F.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-19.37.30:308][732]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-19.37.30:308][732]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-19.37.33:843][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="S:/projetos/rallyUE/brally/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.15-19.37.34:044][985]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.05.15-19.37.34:308][985]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/NewMap2E15ECEA47642BA8061992827C59A897.tmp' to 'S:/projetos/rallyUE/brally/Content/NewMap.umap'
+[2022.05.15-19.37.34:526][985]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="S:/projetos/rallyUE/brally/Content/NewMap_BuiltData.uasset" SILENT=true
+[2022.05.15-19.37.34:753][985]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/NewMap_BuiltData5096902B4E17F9B9A151D890F282FE08.tmp' to 'S:/projetos/rallyUE/brally/Content/NewMap_BuiltData.uasset'
+[2022.05.15-19.37.34:869][985]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.15-19.37.34:869][985]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2022.05.15-19.37.34:869][985]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2022.05.15-19.38.07:526][494]LogEditorViewport: Clicking Background
+[2022.05.15-19.38.19:250][507]LogEditorViewport: Clicking Background
+[2022.05.15-19.39.17:561][331]LogEditorViewport: Clicking Background
+[2022.05.15-19.39.23:060][784]LogEditorViewport: Clicking Background
+[2022.05.15-19.39.26:006][956]LogEditorViewport: Clicking Background
+[2022.05.15-19.41.09:072][462]Cmd: MODE ROTGRID=0
+[2022.05.15-19.41.15:543][749]LogEditorViewport: Clicking Background
+[2022.05.15-19.41.17:110][896]LogEditorViewport: Clicking on Actor (LMB): carro_C (carro)
+[2022.05.15-19.41.29:576][519]LogEditorViewport: Clicking Background
+[2022.05.15-19.41.32:335][795]Cmd: MODE ROTGRID=1
+[2022.05.15-19.41.34:460][966]LogEditorViewport: Clicking Background
+[2022.05.15-19.41.36:056][ 65]Cmd: MODE ROTGRID=0
+[2022.05.15-19.41.38:018][162]LogEditorViewport: Clicking Background
+[2022.05.15-19.41.39:487][268]LogEditorViewport: Clicking Background
+[2022.05.15-19.41.41:094][429]Cmd: MODE SCALEGRID=0
+[2022.05.15-19.41.43:401][616]Cmd: MODE SCALEGRID=1
+[2022.05.15-19.41.49:384][914]LogEditorViewport: Clicking Background
+[2022.05.15-19.42.08:503][281]Cmd: MODE GRID=1
+[2022.05.15-19.42.09:166][315]Cmd: MODE GRID=0
+[2022.05.15-19.42.09:964][356]Cmd: MODE GRID=1
+[2022.05.15-19.42.12:606][489]LogEditorViewport: Clicking Background
+[2022.05.15-19.42.42:730][381]LogEditorViewport: Clicking Background
+[2022.05.15-19.42.50:513][993]Cmd: STAT FPS
+[2022.05.15-19.43.02:893][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-19.43.03:008][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-19.43.03:077][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-19.43.03:174][933]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-19.43.17:866][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-19.43.17:894][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-19.43.17:911][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-19.43.17:930][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-19.43.40:696][296]LogEditorViewport: Clicking Background
+[2022.05.15-19.45.20:114][620]BlueprintLog: New page: Compilar rodas
+[2022.05.15-19.45.20:505][620]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.05.15-19.45.21:042][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-19.45.21:050][666]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodasED5F2B9742498DB9556F2B8AD88752B6.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-19.45.21:066][666]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-19.45.21:066][666]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-19.48.48:927][364]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.05.15-19.48.48:942][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="S:/projetos/rallyUE/brally/Saved/Autosaves/Game/NewMap_Auto6.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.15-19.48.48:961][364]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/NewMap_Auto6AE9B28384F521F7FCE6FB9862D2AD495.tmp' to 'S:/projetos/rallyUE/brally/Saved/Autosaves/Game/NewMap_Auto6.umap'
+[2022.05.15-19.48.48:985][364]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.126
+[2022.05.15-19.48.48:985][364]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.126
+[2022.05.15-19.48.48:986][364]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/scrits/carro] ([4] browsable assets)...
+[2022.05.15-19.48.49:055][364]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/scrits/carro.carro]
+[2022.05.15-19.48.49:074][364]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/scrits/carro.carro]
+[2022.05.15-19.48.49:074][364]OBJ SavePackage: Finished generating thumbnails for package [/Game/scrits/carro]
+[2022.05.15-19.48.49:074][364]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/carro" FILE="S:/projetos/rallyUE/brally/Saved/Autosaves/Game/scrits/carro_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2022.05.15-19.48.49:235][364]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/carro_Auto6344360674218D01E9FEFB380B964E863.tmp' to 'S:/projetos/rallyUE/brally/Saved/Autosaves/Game/scrits/carro_Auto6.uasset'
+[2022.05.15-19.48.49:236][364]LogFileHelpers: Auto-saving content packages took 0.250
+[2022.05.15-19.50.59:010][428]BlueprintLog: New page: Compilar rodas
+[2022.05.15-19.50.59:127][428]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.05.15-19.51.00:313][556]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-19.51.00:347][556]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas2AF8944144DAB9C6F5FF788B9787A138.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-19.51.00:362][556]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-19.51.00:362][556]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-19.52.26:997][988]BlueprintLog: New page: Compilar rodas
+[2022.05.15-19.52.27:113][988]LogUObjectHash: Compacting FUObjectHashTables data took  10.99ms
+[2022.05.15-19.52.27:567][ 33]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-19.52.27:577][ 33]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas60F300264F2AD3D66D42E48D87BE6A97.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-19.52.27:600][ 33]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-19.52.27:600][ 33]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-19.52.28:392][117]BlueprintLog: New page: Compilar carro
+[2022.05.15-19.52.28:716][117]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2022.05.15-19.52.29:302][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/carro" FILE="S:/projetos/rallyUE/brally/Content/scrits/carro.uasset" SILENT=true
+[2022.05.15-19.52.29:319][162]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/carro6BD73EC942890EA3C10C808DD934530A.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/carro.uasset'
+[2022.05.15-19.52.29:385][162]AssetCheck: New page: Asset Save: carro
+[2022.05.15-19.52.29:385][162]LogContentValidation: Display: Validating Blueprint /Game/scrits/carro.carro
+[2022.05.15-19.52.31:851][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="S:/projetos/rallyUE/brally/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.15-19.52.31:890][291]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2022.05.15-19.52.31:926][291]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/NewMapF839C5DA41796024EC301B98E794EC12.tmp' to 'S:/projetos/rallyUE/brally/Content/NewMap.umap'
+[2022.05.15-19.52.31:933][291]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="S:/projetos/rallyUE/brally/Content/NewMap_BuiltData.uasset" SILENT=true
+[2022.05.15-19.52.31:978][291]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/NewMap_BuiltDataC53AEF86427B852B462FC0AA45D2AE42.tmp' to 'S:/projetos/rallyUE/brally/Content/NewMap_BuiltData.uasset'
+[2022.05.15-19.52.31:992][291]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.15-19.52.31:992][291]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2022.05.15-19.52.31:992][291]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2022.05.15-19.52.32:974][333]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-19.52.33:148][333]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-19.52.33:269][333]PIE: New page: Sessão de PIE : NewMap (15 de mai de 2022 13:52:33)
+[2022.05.15-19.52.33:352][333]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.05.15-19.52.33:628][333]LogPlayLevel: PIE: StaticDuplicateObject took: (0.269207s)
+[2022.05.15-19.52.34:115][333]LogAIModule: Creating AISystem for world NewMap
+[2022.05.15-19.52.34:197][333]LogPlayLevel: PIE: World Init took: (0.568579s)
+[2022.05.15-19.52.34:197][333]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.844929s)
+[2022.05.15-19.52.34:256][333]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.05.15-19.52.34:343][333]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2022.05.15-19.52.34:370][333]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-19.52.34:370][333]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-19.52.34:370][333]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-19.52.34:370][333]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-19.52.34:370][333]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-19.52.34:371][333]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-19.52.34:371][333]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-19.52.34:371][333]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-19.52.34:408][333]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.15-19.52.34:408][333]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.15-19.52.34:408][333]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.15-19.52.34:408][333]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-19.52.35:065][333]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-19.52.35:066][333]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-19.52.35:075][333]LogAudioMixer: Display: Using Audio Device SMART TV (NVIDIA High Definition Audio)
+[2022.05.15-19.52.35:175][333]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-19.52.35:175][333]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-19.52.35:221][333]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-19.52.35:253][333]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-19.52.35:254][333]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-19.52.35:279][333]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-19.52.35:290][333]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-19.52.35:290][333]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-19.52.35:290][333]LogInit: FAudioDevice initialized.
+[2022.05.15-19.52.35:320][333]LogAudio: Display: Audio Device (ID: 10) registered with world 'NewMap'.
+[2022.05.15-19.52.35:649][333]LogLoad: Game class is 'GameModeBase'
+[2022.05.15-19.52.35:884][333]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.05.15-16.52.35
+[2022.05.15-19.52.35:891][333]LogWorld: Bringing up level for play took: 0.079922
+[2022.05.15-19.52.36:058][333]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2022.05.15-19.52.36:326][333]PIE: Servidor conectado
+[2022.05.15-19.52.36:326][333]PIE: Play in editor total start time 3,265 seconds.
+[2022.05.15-19.53.11:908][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-19.53.11:908][624]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.05.15-19.53.12:024][624]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-19.53.12:064][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-19.53.12:237][624]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-19.53.12:255][624]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-19.53.12:321][624]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-19.53.12:334][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-19.53.12:336][624]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-19.53.12:541][624]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.05.15-19.53.12:606][625]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2022.05.15-19.53.23:617][782]BlueprintLog: New page: Compilar rodas
+[2022.05.15-19.53.23:688][782]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.05.15-19.53.25:351][873]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-19.53.25:357][873]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-19.53.25:357][873]PIE: New page: Sessão de PIE : NewMap (15 de mai de 2022 13:53:25)
+[2022.05.15-19.53.25:395][873]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.05.15-19.53.25:418][873]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023313s)
+[2022.05.15-19.53.25:419][873]LogAIModule: Creating AISystem for world NewMap
+[2022.05.15-19.53.25:419][873]LogPlayLevel: PIE: World Init took: (0.001177s)
+[2022.05.15-19.53.25:419][873]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.024725s)
+[2022.05.15-19.53.25:455][873]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2022.05.15-19.53.25:456][873]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.05.15-19.53.25:456][873]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-19.53.25:456][873]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-19.53.25:456][873]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-19.53.25:456][873]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-19.53.25:456][873]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-19.53.25:456][873]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-19.53.25:456][873]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-19.53.25:456][873]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-19.53.25:457][873]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.15-19.53.25:457][873]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.15-19.53.25:457][873]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.15-19.53.25:457][873]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-19.53.25:459][873]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-19.53.25:459][873]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-19.53.25:468][873]LogAudioMixer: Display: Using Audio Device SMART TV (NVIDIA High Definition Audio)
+[2022.05.15-19.53.25:497][873]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-19.53.25:497][873]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-19.53.25:497][873]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-19.53.25:500][873]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-19.53.25:500][873]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-19.53.25:500][873]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-19.53.25:501][873]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-19.53.25:502][873]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-19.53.25:502][873]LogInit: FAudioDevice initialized.
+[2022.05.15-19.53.25:502][873]LogAudio: Display: Audio Device (ID: 11) registered with world 'NewMap'.
+[2022.05.15-19.53.25:508][873]LogLoad: Game class is 'GameModeBase'
+[2022.05.15-19.53.25:509][873]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.05.15-16.53.25
+[2022.05.15-19.53.25:509][873]LogWorld: Bringing up level for play took: 0.000774
+[2022.05.15-19.53.25:510][873]LogOnline: OSS: Creating online subsystem instance for: :Context_16
+[2022.05.15-19.53.25:512][873]PIE: Servidor conectado
+[2022.05.15-19.53.25:512][873]PIE: Play in editor total start time 0,156 seconds.
+[2022.05.15-19.53.44:088][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-19.53.44:088][235]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.05.15-19.53.44:088][235]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-19.53.44:088][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-19.53.44:099][235]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-19.53.44:111][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-19.53.44:143][235]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.15-19.53.44:143][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-19.53.44:144][235]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-19.53.44:146][235]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-19.53.44:151][235]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2022.05.15-19.53.44:222][236]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2022.05.15-19.54.08:020][325]BlueprintLog: New page: Compilar rodas
+[2022.05.15-19.54.08:123][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.05.15-19.54.08:956][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-19.54.08:966][410]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas47DE6C344AE8D7350B1E5D95BB803AF1.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-19.54.08:981][410]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-19.54.08:981][410]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-19.54.21:673][807]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-19.54.21:680][807]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-19.54.21:680][807]PIE: New page: Sessão de PIE : NewMap (15 de mai de 2022 13:54:21)
+[2022.05.15-19.54.21:719][807]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.05.15-19.54.21:721][807]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002326s)
+[2022.05.15-19.54.21:722][807]LogAIModule: Creating AISystem for world NewMap
+[2022.05.15-19.54.21:722][807]LogPlayLevel: PIE: World Init took: (0.001218s)
+[2022.05.15-19.54.21:722][807]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003748s)
+[2022.05.15-19.54.21:758][807]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.05.15-19.54.21:759][807]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2022.05.15-19.54.21:759][807]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-19.54.21:759][807]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-19.54.21:759][807]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-19.54.21:759][807]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-19.54.21:759][807]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-19.54.21:759][807]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-19.54.21:759][807]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-19.54.21:759][807]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-19.54.21:760][807]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.15-19.54.21:760][807]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.15-19.54.21:760][807]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.15-19.54.21:760][807]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-19.54.21:763][807]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-19.54.21:763][807]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-19.54.21:772][807]LogAudioMixer: Display: Using Audio Device SMART TV (NVIDIA High Definition Audio)
+[2022.05.15-19.54.21:772][807]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-19.54.21:772][807]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-19.54.21:772][807]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-19.54.21:794][807]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-19.54.21:794][807]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-19.54.21:794][807]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-19.54.21:795][807]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-19.54.21:795][807]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-19.54.21:795][807]LogInit: FAudioDevice initialized.
+[2022.05.15-19.54.21:795][807]LogAudio: Display: Audio Device (ID: 12) registered with world 'NewMap'.
+[2022.05.15-19.54.21:804][807]LogLoad: Game class is 'GameModeBase'
+[2022.05.15-19.54.21:805][807]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.05.15-16.54.21
+[2022.05.15-19.54.21:805][807]LogWorld: Bringing up level for play took: 0.000792
+[2022.05.15-19.54.21:805][807]LogOnline: OSS: Creating online subsystem instance for: :Context_17
+[2022.05.15-19.54.21:807][807]PIE: Servidor conectado
+[2022.05.15-19.54.21:808][807]PIE: Play in editor total start time 0,13 seconds.
+[2022.05.15-19.54.32:700][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-19.54.32:700][556]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.05.15-19.54.32:700][556]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-19.54.32:700][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-19.54.32:714][556]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-19.54.32:730][556]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-19.54.32:767][556]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.15-19.54.32:768][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-19.54.32:769][556]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-19.54.32:772][556]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-19.54.32:776][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.26ms
+[2022.05.15-19.54.32:840][557]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2022.05.15-19.54.42:530][447]BlueprintLog: New page: Compilar rodas
+[2022.05.15-19.54.42:596][447]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.05.15-19.54.44:146][541]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-19.54.44:172][541]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-19.54.44:172][541]PIE: New page: Sessão de PIE : NewMap (15 de mai de 2022 13:54:44)
+[2022.05.15-19.54.44:210][541]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.05.15-19.54.44:212][541]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002340s)
+[2022.05.15-19.54.44:213][541]LogAIModule: Creating AISystem for world NewMap
+[2022.05.15-19.54.44:213][541]LogPlayLevel: PIE: World Init took: (0.001185s)
+[2022.05.15-19.54.44:213][541]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003700s)
+[2022.05.15-19.54.44:249][541]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.05.15-19.54.44:250][541]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2022.05.15-19.54.44:250][541]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-19.54.44:250][541]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-19.54.44:250][541]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-19.54.44:250][541]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-19.54.44:250][541]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-19.54.44:250][541]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-19.54.44:250][541]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-19.54.44:250][541]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-19.54.44:250][541]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.15-19.54.44:251][541]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.15-19.54.44:251][541]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.15-19.54.44:251][541]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-19.54.44:253][541]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-19.54.44:253][541]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-19.54.44:262][541]LogAudioMixer: Display: Using Audio Device SMART TV (NVIDIA High Definition Audio)
+[2022.05.15-19.54.44:262][541]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-19.54.44:262][541]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-19.54.44:262][541]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-19.54.44:263][541]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-19.54.44:263][541]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-19.54.44:263][541]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-19.54.44:264][541]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-19.54.44:264][541]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-19.54.44:264][541]LogInit: FAudioDevice initialized.
+[2022.05.15-19.54.44:264][541]LogAudio: Display: Audio Device (ID: 13) registered with world 'NewMap'.
+[2022.05.15-19.54.44:272][541]LogLoad: Game class is 'GameModeBase'
+[2022.05.15-19.54.44:272][541]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.05.15-16.54.44
+[2022.05.15-19.54.44:273][541]LogWorld: Bringing up level for play took: 0.000757
+[2022.05.15-19.54.44:273][541]LogOnline: OSS: Creating online subsystem instance for: :Context_18
+[2022.05.15-19.54.44:275][541]PIE: Servidor conectado
+[2022.05.15-19.54.44:276][541]PIE: Play in editor total start time 0,105 seconds.
+[2022.05.15-19.55.04:942][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-19.55.04:942][ 11]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.05.15-19.55.04:942][ 11]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-19.55.04:942][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-19.55.04:955][ 11]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-19.55.04:967][ 11]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-19.55.04:999][ 11]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.15-19.55.04:999][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-19.55.05:000][ 11]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-19.55.05:002][ 11]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-19.55.05:006][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.05.15-19.55.05:040][ 12]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2022.05.15-19.56.06:334][377]BlueprintLog: New page: Compilar rodas
+[2022.05.15-19.56.06:405][377]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2022.05.15-19.56.06:947][434]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-19.56.06:957][434]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodasC194B4294B070F0C08E9F8A233007C41.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-19.56.06:972][434]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-19.56.06:972][434]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-19.59.16:922][969]BlueprintLog: New page: Recolher para Função
+[2022.05.15-20.00.02:174][ 90]BlueprintLog: New page: Compilar rodas
+[2022.05.15-20.00.02:253][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   4.67ms
+[2022.05.15-20.00.02:827][153]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-20.00.02:903][153]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas9758EDED4E8E558EA86C2487154397FA.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-20.00.02:917][153]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-20.00.02:917][153]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-20.00.04:244][304]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/carro" FILE="S:/projetos/rallyUE/brally/Content/scrits/carro.uasset" SILENT=true
+[2022.05.15-20.00.04:256][304]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/carro128D25484FFF60D1CAA5D494012D8835.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/carro.uasset'
+[2022.05.15-20.00.04:270][304]AssetCheck: New page: Asset Save: carro
+[2022.05.15-20.00.04:270][304]LogContentValidation: Display: Validating Blueprint /Game/scrits/carro.carro
+[2022.05.15-20.00.05:867][403]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-20.00.05:873][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-20.00.05:874][403]PIE: New page: Sessão de PIE : NewMap (15 de mai de 2022 14:00:05)
+[2022.05.15-20.00.05:874][403]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.05.15-20.00.05:878][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004518s)
+[2022.05.15-20.00.05:880][403]LogAIModule: Creating AISystem for world NewMap
+[2022.05.15-20.00.05:880][403]LogPlayLevel: PIE: World Init took: (0.001508s)
+[2022.05.15-20.00.05:880][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.006285s)
+[2022.05.15-20.00.05:920][403]LogUObjectHash: Compacting FUObjectHashTables data took   3.48ms
+[2022.05.15-20.00.05:921][403]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2022.05.15-20.00.05:921][403]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-20.00.05:921][403]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-20.00.05:921][403]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-20.00.05:921][403]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-20.00.05:921][403]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-20.00.05:921][403]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-20.00.05:922][403]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-20.00.05:922][403]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-20.00.05:922][403]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.15-20.00.05:922][403]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.15-20.00.05:922][403]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.15-20.00.05:922][403]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-20.00.05:925][403]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-20.00.05:925][403]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-20.00.05:932][403]LogAudioMixer: Display: Using Audio Device SMART TV (NVIDIA High Definition Audio)
+[2022.05.15-20.00.05:933][403]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-20.00.05:933][403]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-20.00.05:933][403]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-20.00.05:933][403]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-20.00.05:933][403]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-20.00.05:933][403]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-20.00.05:935][403]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-20.00.05:935][403]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-20.00.05:935][403]LogInit: FAudioDevice initialized.
+[2022.05.15-20.00.05:935][403]LogAudio: Display: Audio Device (ID: 14) registered with world 'NewMap'.
+[2022.05.15-20.00.05:942][403]LogLoad: Game class is 'GameModeBase'
+[2022.05.15-20.00.05:943][403]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.05.15-17.00.05
+[2022.05.15-20.00.05:944][403]LogWorld: Bringing up level for play took: 0.000771
+[2022.05.15-20.00.05:944][403]LogOnline: OSS: Creating online subsystem instance for: :Context_19
+[2022.05.15-20.00.05:946][403]PIE: Servidor conectado
+[2022.05.15-20.00.05:947][403]PIE: Play in editor total start time 0,074 seconds.
+[2022.05.15-20.00.19:440][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-20.00.19:440][324]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.05.15-20.00.19:440][324]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-20.00.19:440][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-20.00.19:457][324]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-20.00.19:469][324]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-20.00.19:501][324]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.15-20.00.19:501][324]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-20.00.19:502][324]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-20.00.19:504][324]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-20.00.19:508][324]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2022.05.15-20.00.19:542][325]LogPlayLevel: Display: Destroying online subsystem :Context_19
+[2022.05.15-20.00.31:971][578]Cmd: STAT FPS
+[2022.05.15-20.00.34:063][675]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.05.15-20.04.07:808][344]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-20.04.07:825][344]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas17922BDE4B8936875A7402BDA9E7DA55.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-20.04.07:890][344]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-20.04.07:890][344]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-20.04.08:896][463]BlueprintLog: New page: Compilar rodas
+[2022.05.15-20.04.08:970][463]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.05.15-20.04.13:391][668]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{caee3c3d-3311-4d61-b0c7-e36e793bca3b}.
+[2022.05.15-20.04.13:391][668]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.15-20.04.13:492][668]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-20.04.13:492][668]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-21.32.27:359][677]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2022.05.15-21.32.27:527][677]LogAudioMixer: Resetting audio stream to device id 
+[2022.05.15-21.32.27:573][677]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-21.32.27:573][677]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-21.32.27:944][677]LogUObjectHash: Compacting FUObjectHashTables data took   6.90ms
+[2022.05.15-21.32.27:946][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="S:/projetos/rallyUE/brally/Saved/Autosaves/Game/NewMap_Auto7.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.15-21.32.27:962][677]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/NewMap_Auto7C93BDA794B7096AFBFACE189E0103337.tmp' to 'S:/projetos/rallyUE/brally/Saved/Autosaves/Game/NewMap_Auto7.umap'
+[2022.05.15-21.32.27:988][677]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.126
+[2022.05.15-21.32.27:988][677]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.126
+[2022.05.15-21.32.28:000][678]LogHttp: Warning: 00000159F25C9600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB32AFD3E-46A4-5C73-B80E-1393128B768E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=fe9dd5894585306dea13f2871a335c4a%7Cbfef50d039b44310adb408a2d4e210f4%7Ca3fc3420-bcdd-4bf2-b635-b7522e0eb009&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.05.15-21.32.28:000][678]LogHttp: Warning: 00000159F25C9600: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.05.15-21.32.28:000][678]LogHttp: Warning: 00000159F25C9600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x15923c8dc60 [can pipeline])
+[2022.05.15-21.32.28:000][678]LogHttp: Warning: 00000159F25C9600: libcurl info message cache 1 (Re-using existing connection! (#6) with host datarouter.ol.epicgames.com)
+[2022.05.15-21.32.28:000][678]LogHttp: Warning: 00000159F25C9600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.71.210.37) port 443 (#6))
+[2022.05.15-21.32.28:016][678]LogHttp: Warning: 00000159F25C9600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.05.15-21.32.28:017][678]LogHttp: Warning: 00000159F25C9600: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.05.15-21.32.28:017][678]LogHttp: Warning: 00000159F25C9600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.05.15-21.32.28:017][678]LogHttp: Warning: 00000159F25C9600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.05.15-21.32.28:017][678]LogHttp: Warning: 00000159F25C9600: libcurl info message cache 7 (Closing connection 6)
+[2022.05.15-21.32.28:017][678]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BB32AFD3E-46A4-5C73-B80E-1393128B768E%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=fe9dd5894585306dea13f2871a335c4a%7Cbfef50d039b44310adb408a2d4e210f4%7Ca3fc3420-bcdd-4bf2-b635-b7522e0eb009&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.05.15-21.38.12:985][886]LogEditorTransaction: Undo Delete current selection
+[2022.05.15-21.38.32:671][886]LogEditorTransaction: Undo Delete current selection
+[2022.05.15-21.43.06:855][843]LogUObjectHash: Compacting FUObjectHashTables data took   6.02ms
+[2022.05.15-21.43.06:856][843]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.075
+[2022.05.15-21.43.06:857][843]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/scrits/rodas] ([2] browsable assets)...
+[2022.05.15-21.43.06:857][843]OBJ SavePackage: Finished generating thumbnails for package [/Game/scrits/rodas]
+[2022.05.15-21.43.06:857][843]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Saved/Autosaves/Game/scrits/rodas_Auto8.uasset" SILENT=false AUTOSAVING=true
+[2022.05.15-21.43.06:883][843]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas_Auto81B7D20B44A219254F2E24AB3F1205888.tmp' to 'S:/projetos/rallyUE/brally/Saved/Autosaves/Game/scrits/rodas_Auto8.uasset'
+[2022.05.15-21.43.06:883][843]LogFileHelpers: Auto-saving content packages took 0.027
+[2022.05.15-22.03.37:131][ 21]BlueprintLog: New page: Compilar rodas
+[2022.05.15-22.03.40:427][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   3.93ms
+[2022.05.15-22.03.40:818][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-22.03.40:901][ 21]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas3709ADBC4FEE346D7E6394929CB56CA5.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-22.03.44:468][ 21]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-22.03.44:475][ 21]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-22.03.47:199][261]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-22.03.47:253][261]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas8B85ABD6433E696E96B2A5A89AD3F7A5.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-22.03.47:265][261]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-22.03.47:266][261]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-22.04.13:124][489]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.05.15-22.04.13:161][489]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="S:/projetos/rallyUE/brally/Saved/Autosaves/Game/NewMap_Auto9.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.15-22.04.13:374][489]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/NewMap_Auto94685E70C4DC0B6A6AB971796D5659D7F.tmp' to 'S:/projetos/rallyUE/brally/Saved/Autosaves/Game/NewMap_Auto9.umap'
+[2022.05.15-22.04.13:375][489]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.311
+[2022.05.15-22.04.13:375][489]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.311
+[2022.05.15-22.06.15:573][918]BlueprintLog: New page: Compilar rodas
+[2022.05.15-22.06.15:679][918]LogUObjectHash: Compacting FUObjectHashTables data took   3.87ms
+[2022.05.15-22.06.16:252][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-22.06.16:290][980]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas76B331DE48CDADA7E19154BF77208C26.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-22.06.16:304][980]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-22.06.16:304][980]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-22.07.19:208][794]BlueprintLog: New page: Compilar rodas
+[2022.05.15-22.07.19:316][794]LogUObjectHash: Compacting FUObjectHashTables data took   5.75ms
+[2022.05.15-22.07.20:056][869]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-22.07.20:079][869]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas17207E3346061D98D72DC38CFE4950FD.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-22.07.20:095][869]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-22.07.20:095][869]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-22.15.01:312][165]BlueprintLog: New page: Compilar rodas
+[2022.05.15-22.15.01:399][165]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2022.05.15-22.16.27:466][318]BlueprintLog: New page: Compilar rodas
+[2022.05.15-22.16.27:549][318]LogUObjectHash: Compacting FUObjectHashTables data took   3.91ms
+[2022.05.15-22.16.27:852][343]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-22.16.27:880][343]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodasA7AE5A024C1E400240FBA3914F629D43.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-22.16.27:912][343]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-22.16.27:912][343]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-22.16.29:448][511]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.05.15-22.16.29:448][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="S:/projetos/rallyUE/brally/Saved/Autosaves/Game/NewMap_Auto0.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.15-22.16.29:456][511]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/NewMap_Auto0CE174AE440D1B8BCCB5E62BE3BF91EDD.tmp' to 'S:/projetos/rallyUE/brally/Saved/Autosaves/Game/NewMap_Auto0.umap'
+[2022.05.15-22.16.29:491][511]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.100
+[2022.05.15-22.16.29:491][511]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.100
+[2022.05.15-22.16.29:493][511]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/scrits/carro] ([4] browsable assets)...
+[2022.05.15-22.16.29:519][511]OBJ SavePackage: Finished generating thumbnails for package [/Game/scrits/carro]
+[2022.05.15-22.16.29:519][511]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/carro" FILE="S:/projetos/rallyUE/brally/Saved/Autosaves/Game/scrits/carro_Auto0.uasset" SILENT=false AUTOSAVING=true
+[2022.05.15-22.16.29:705][511]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/carro_Auto0C9F57F164B8CBA4C482C01BCFB403634.tmp' to 'S:/projetos/rallyUE/brally/Saved/Autosaves/Game/scrits/carro_Auto0.uasset'
+[2022.05.15-22.16.29:705][511]LogFileHelpers: Auto-saving content packages took 0.214
+[2022.05.15-22.17.22:745][764]BlueprintLog: New page: Compilar rodas
+[2022.05.15-22.17.22:853][764]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2022.05.15-22.19.40:045][ 25]BlueprintLog: New page: Recolher para Função
+[2022.05.15-22.26.30:115][951]LogUObjectHash: Compacting FUObjectHashTables data took   4.52ms
+[2022.05.15-22.26.30:118][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="S:/projetos/rallyUE/brally/Saved/Autosaves/Game/NewMap_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.15-22.26.30:127][951]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/NewMap_Auto1B2EB00A341A4EF4FA4B0A5A5963B0843.tmp' to 'S:/projetos/rallyUE/brally/Saved/Autosaves/Game/NewMap_Auto1.umap'
+[2022.05.15-22.26.30:148][951]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.120
+[2022.05.15-22.26.30:148][951]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.120
+[2022.05.15-22.26.30:149][951]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/scrits/carro] ([4] browsable assets)...
+[2022.05.15-22.26.30:149][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/scrits/carro]
+[2022.05.15-22.26.30:149][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/carro" FILE="S:/projetos/rallyUE/brally/Saved/Autosaves/Game/scrits/carro_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.05.15-22.26.30:164][951]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/carro_Auto13EE4B09345EECD2D34EE8CBE6EEF992F.tmp' to 'S:/projetos/rallyUE/brally/Saved/Autosaves/Game/scrits/carro_Auto1.uasset'
+[2022.05.15-22.26.30:165][951]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/scrits/rodas] ([2] browsable assets)...
+[2022.05.15-22.26.30:165][951]OBJ SavePackage: Finished generating thumbnails for package [/Game/scrits/rodas]
+[2022.05.15-22.26.30:165][951]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Saved/Autosaves/Game/scrits/rodas_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2022.05.15-22.26.30:219][951]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas_Auto122FD0AF549E74A57E48F5F889B660036.tmp' to 'S:/projetos/rallyUE/brally/Saved/Autosaves/Game/scrits/rodas_Auto1.uasset'
+[2022.05.15-22.26.30:220][951]LogFileHelpers: Auto-saving content packages took 0.072
+[2022.05.15-22.38.57:592][556]BlueprintLog: New page: Compilar rodas
+[2022.05.15-22.38.57:684][556]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
+[2022.05.15-22.38.58:513][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-22.38.58:543][618]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodasE587DA4C46B294DD8289E9BB47AB9C46.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-22.38.58:566][618]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-22.38.58:566][618]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-22.39.24:504][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.05.15-22.39.24:505][627]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="S:/projetos/rallyUE/brally/Saved/Autosaves/Game/NewMap_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.15-22.39.24:514][627]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/NewMap_Auto28E38DA7345F562510FED4DB24F48430E.tmp' to 'S:/projetos/rallyUE/brally/Saved/Autosaves/Game/NewMap_Auto2.umap'
+[2022.05.15-22.39.24:517][627]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.053
+[2022.05.15-22.39.24:517][627]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.053
+[2022.05.15-22.39.52:337][564]BlueprintLog: New page: Compilar rodas
+[2022.05.15-22.39.52:410][564]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.05.15-22.39.53:050][629]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-22.39.53:082][629]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas98CA64A24E21EAC684BA5BA73C10175F.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-22.39.53:096][629]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-22.39.53:096][629]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-22.44.23:598][706]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-22.44.23:702][706]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas1C25AC084DF11FE0181E038A6F355C46.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-22.44.23:722][706]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-22.44.23:722][706]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-22.44.23:979][732]BlueprintLog: New page: Compilar rodas
+[2022.05.15-22.44.24:083][732]LogUObjectHash: Compacting FUObjectHashTables data took   4.09ms
+[2022.05.15-22.44.30:081][932]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/carro" FILE="S:/projetos/rallyUE/brally/Content/scrits/carro.uasset" SILENT=true
+[2022.05.15-22.44.30:093][932]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/carro95748D664A5D1246E447AEA7ADE06B94.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/carro.uasset'
+[2022.05.15-22.44.30:221][932]AssetCheck: New page: Asset Save: carro
+[2022.05.15-22.44.30:221][932]LogContentValidation: Display: Validating Blueprint /Game/scrits/carro.carro
+[2022.05.15-22.44.30:759][936]BlueprintLog: New page: Compilar carro
+[2022.05.15-22.44.31:226][936]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2022.05.15-22.46.59:453][858]BlueprintLog: New page: Compilar rodas
+[2022.05.15-22.46.59:665][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.66ms
+[2022.05.15-22.49.19:128][946]BlueprintLog: New page: Compilar rodas
+[2022.05.15-22.49.19:215][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2022.05.15-22.49.19:698][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-22.49.19:746][993]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas65544EA440834D0A98854BA3D629DD5C.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-22.49.19:774][993]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-22.49.19:774][993]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-22.49.44:703][191]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2022.05.15-22.49.44:704][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="S:/projetos/rallyUE/brally/Saved/Autosaves/Game/NewMap_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.15-22.49.44:712][191]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/NewMap_Auto34936138D428219A14A672DBE10AD470C.tmp' to 'S:/projetos/rallyUE/brally/Saved/Autosaves/Game/NewMap_Auto3.umap'
+[2022.05.15-22.49.44:712][191]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.061
+[2022.05.15-22.49.44:713][191]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.061
+[2022.05.15-22.49.44:713][191]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/scrits/carro] ([4] browsable assets)...
+[2022.05.15-22.49.44:881][191]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/scrits/carro.carro]
+[2022.05.15-22.49.44:981][191]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/scrits/carro.carro]
+[2022.05.15-22.49.44:981][191]OBJ SavePackage: Finished generating thumbnails for package [/Game/scrits/carro]
+[2022.05.15-22.49.44:981][191]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/carro" FILE="S:/projetos/rallyUE/brally/Saved/Autosaves/Game/scrits/carro_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2022.05.15-22.49.45:076][191]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/carro_Auto33ACAA21A435B971870F63893920B8E1C.tmp' to 'S:/projetos/rallyUE/brally/Saved/Autosaves/Game/scrits/carro_Auto3.uasset'
+[2022.05.15-22.49.45:091][191]LogFileHelpers: Auto-saving content packages took 0.378
+[2022.05.15-22.50.00:185][414]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-22.50.00:217][414]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas8098BA8D4BDD6E4F6C4B0C9C02A0106E.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-22.50.00:236][414]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-22.50.00:236][414]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-22.50.01:370][539]BlueprintLog: New page: Compilar carro
+[2022.05.15-22.50.01:454][539]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2022.05.15-22.50.01:890][573]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/carro" FILE="S:/projetos/rallyUE/brally/Content/scrits/carro.uasset" SILENT=true
+[2022.05.15-22.50.01:905][573]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/carro99DBADB8496ED5998680DB93DE025977.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/carro.uasset'
+[2022.05.15-22.50.01:921][573]AssetCheck: New page: Asset Save: carro
+[2022.05.15-22.50.01:921][573]LogContentValidation: Display: Validating Blueprint /Game/scrits/carro.carro
+[2022.05.15-22.52.05:453][128]BlueprintLog: New page: Compilar carro
+[2022.05.15-22.52.05:521][128]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2022.05.15-22.52.06:016][165]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/carro" FILE="S:/projetos/rallyUE/brally/Content/scrits/carro.uasset" SILENT=true
+[2022.05.15-22.52.06:035][165]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/carro0C1D6DE9452B58F33E5EAF882CD99D41.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/carro.uasset'
+[2022.05.15-22.52.06:070][165]AssetCheck: New page: Asset Save: carro
+[2022.05.15-22.52.06:070][165]LogContentValidation: Display: Validating Blueprint /Game/scrits/carro.carro
+[2022.05.15-22.56.10:801][678]BlueprintLog: New page: Compilar rodas
+[2022.05.15-22.56.10:931][678]LogUObjectHash: Compacting FUObjectHashTables data took   4.05ms
+[2022.05.15-22.56.11:454][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-22.56.11:490][729]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas5C5CE98E49C5030DD9C566A0DF2BE3EA.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-22.56.11:505][729]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-22.56.11:505][729]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-22.56.29:431][268]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-22.56.29:733][268]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-22.56.29:930][268]PIE: New page: Sessão de PIE : NewMap (15 de mai de 2022 16:56:29)
+[2022.05.15-22.56.30:034][268]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.05.15-22.56.30:611][268]LogPlayLevel: PIE: StaticDuplicateObject took: (0.542817s)
+[2022.05.15-22.56.31:329][268]LogAIModule: Creating AISystem for world NewMap
+[2022.05.15-22.56.31:459][268]LogPlayLevel: PIE: World Init took: (0.841709s)
+[2022.05.15-22.56.31:541][268]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (1.468109s)
+[2022.05.15-22.56.31:632][268]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2022.05.15-22.56.31:742][268]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2022.05.15-22.56.31:790][268]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-22.56.31:790][268]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-22.56.31:793][268]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-22.56.31:793][268]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-22.56.31:793][268]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-22.56.31:793][268]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-22.56.31:793][268]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-22.56.31:804][268]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-22.56.31:842][268]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.15-22.56.31:842][268]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.15-22.56.31:842][268]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.15-22.56.31:842][268]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-22.56.31:925][268]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-22.56.31:925][268]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-22.56.31:944][268]LogAudioMixer: Display: Using Audio Device SMART TV (NVIDIA High Definition Audio)
+[2022.05.15-22.56.32:030][268]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-22.56.32:044][268]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-22.56.32:045][268]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-22.56.32:058][268]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-22.56.32:059][268]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-22.56.32:059][268]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-22.56.32:155][268]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-22.56.32:155][268]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-22.56.32:155][268]LogInit: FAudioDevice initialized.
+[2022.05.15-22.56.32:155][268]LogAudio: Display: Audio Device (ID: 15) registered with world 'NewMap'.
+[2022.05.15-22.56.32:625][268]LogLoad: Game class is 'GameModeBase'
+[2022.05.15-22.56.32:909][268]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.05.15-19.56.32
+[2022.05.15-22.56.32:966][268]LogWorld: Bringing up level for play took: 0.137482
+[2022.05.15-22.56.33:139][268]LogOnline: OSS: Creating online subsystem instance for: :Context_20
+[2022.05.15-22.56.33:664][268]PIE: Servidor conectado
+[2022.05.15-22.56.33:665][268]PIE: Play in editor total start time 4,089 seconds.
+[2022.05.15-22.56.39:703][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-22.56.39:703][592]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.05.15-22.56.39:852][592]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-22.56.39:968][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-22.56.40:095][592]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-22.56.40:219][592]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-22.56.40:330][592]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.15-22.56.40:353][592]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-22.56.40:354][592]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-22.56.40:378][592]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-22.56.40:498][592]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2022.05.15-22.56.40:827][593]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2022.05.15-22.57.10:493][769]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-22.57.10:499][769]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-22.57.10:500][769]PIE: New page: Sessão de PIE : NewMap (15 de mai de 2022 16:57:10)
+[2022.05.15-22.57.10:525][769]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.05.15-22.57.10:528][769]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003042s)
+[2022.05.15-22.57.10:529][769]LogAIModule: Creating AISystem for world NewMap
+[2022.05.15-22.57.10:537][769]LogPlayLevel: PIE: World Init took: (0.009295s)
+[2022.05.15-22.57.10:537][769]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.012586s)
+[2022.05.15-22.57.10:645][769]LogUObjectHash: Compacting FUObjectHashTables data took   2.59ms
+[2022.05.15-22.57.10:689][769]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2022.05.15-22.57.10:689][769]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-22.57.10:689][769]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-22.57.10:689][769]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-22.57.10:689][769]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-22.57.10:689][769]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-22.57.10:689][769]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-22.57.10:689][769]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-22.57.10:689][769]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-22.57.10:690][769]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.15-22.57.10:690][769]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.15-22.57.10:690][769]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.15-22.57.10:690][769]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-22.57.10:693][769]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-22.57.10:693][769]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-22.57.10:731][769]LogAudioMixer: Display: Using Audio Device SMART TV (NVIDIA High Definition Audio)
+[2022.05.15-22.57.10:731][769]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-22.57.10:731][769]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-22.57.10:731][769]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-22.57.10:732][769]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-22.57.10:732][769]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-22.57.10:732][769]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-22.57.10:742][769]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-22.57.10:742][769]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-22.57.10:742][769]LogInit: FAudioDevice initialized.
+[2022.05.15-22.57.10:742][769]LogAudio: Display: Audio Device (ID: 16) registered with world 'NewMap'.
+[2022.05.15-22.57.10:811][769]LogLoad: Game class is 'GameModeBase'
+[2022.05.15-22.57.10:812][769]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.05.15-19.57.10
+[2022.05.15-22.57.10:812][769]LogWorld: Bringing up level for play took: 0.000778
+[2022.05.15-22.57.10:812][769]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2022.05.15-22.57.10:826][769]PIE: Servidor conectado
+[2022.05.15-22.57.10:826][769]PIE: Play in editor total start time 0,328 seconds.
+[2022.05.15-22.57.15:666][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-22.57.15:666][ 94]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.05.15-22.57.15:666][ 94]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-22.57.15:666][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-22.57.15:681][ 94]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-22.57.15:692][ 94]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-22.57.15:724][ 94]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.15-22.57.15:724][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-22.57.15:725][ 94]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-22.57.15:727][ 94]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-22.57.15:731][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.05.15-22.57.15:792][ 95]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2022.05.15-22.57.23:770][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.05.15-23.00.00:597][753]LogUObjectHash: Compacting FUObjectHashTables data took   2.71ms
+[2022.05.15-23.00.00:600][753]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="S:/projetos/rallyUE/brally/Saved/Autosaves/Game/NewMap_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.15-23.00.00:607][753]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/NewMap_Auto48BAC5D78428252A1A2B4D4B05173C3E4.tmp' to 'S:/projetos/rallyUE/brally/Saved/Autosaves/Game/NewMap_Auto4.umap'
+[2022.05.15-23.00.00:623][753]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.069
+[2022.05.15-23.00.00:623][753]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.069
+[2022.05.15-23.09.58:584][248]BlueprintLog: New page: Compilar rodas
+[2022.05.15-23.09.58:663][248]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2022.05.15-23.09.59:253][305]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-23.09.59:293][305]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodasEECAE2504315CBC62727288CEDE295E9.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-23.09.59:309][305]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-23.09.59:309][305]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-23.10.01:174][471]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-23.10.01:181][471]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-23.10.01:181][471]PIE: New page: Sessão de PIE : NewMap (15 de mai de 2022 17:10:01)
+[2022.05.15-23.10.01:181][471]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.05.15-23.10.01:186][471]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004573s)
+[2022.05.15-23.10.01:188][471]LogAIModule: Creating AISystem for world NewMap
+[2022.05.15-23.10.01:188][471]LogPlayLevel: PIE: World Init took: (0.001873s)
+[2022.05.15-23.10.01:188][471]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.006673s)
+[2022.05.15-23.10.01:231][471]LogUObjectHash: Compacting FUObjectHashTables data took   3.70ms
+[2022.05.15-23.10.01:232][471]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2022.05.15-23.10.01:232][471]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-23.10.01:232][471]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-23.10.01:232][471]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-23.10.01:232][471]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-23.10.01:232][471]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-23.10.01:232][471]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-23.10.01:232][471]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-23.10.01:232][471]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-23.10.01:233][471]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.15-23.10.01:233][471]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.15-23.10.01:233][471]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.15-23.10.01:233][471]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-23.10.01:236][471]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-23.10.01:236][471]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-23.10.01:245][471]LogAudioMixer: Display: Using Audio Device SMART TV (NVIDIA High Definition Audio)
+[2022.05.15-23.10.01:246][471]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-23.10.01:246][471]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-23.10.01:246][471]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-23.10.01:246][471]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-23.10.01:246][471]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-23.10.01:246][471]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-23.10.01:248][471]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-23.10.01:248][471]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-23.10.01:248][471]LogInit: FAudioDevice initialized.
+[2022.05.15-23.10.01:248][471]LogAudio: Display: Audio Device (ID: 17) registered with world 'NewMap'.
+[2022.05.15-23.10.01:259][471]LogLoad: Game class is 'GameModeBase'
+[2022.05.15-23.10.01:260][471]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.05.15-20.10.01
+[2022.05.15-23.10.01:261][471]LogWorld: Bringing up level for play took: 0.000899
+[2022.05.15-23.10.01:261][471]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2022.05.15-23.10.01:263][471]PIE: Servidor conectado
+[2022.05.15-23.10.01:264][471]PIE: Play in editor total start time 0,084 seconds.
+[2022.05.15-23.11.21:126][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-23.11.21:126][516]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.05.15-23.11.21:126][516]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-23.11.21:126][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-23.11.21:140][516]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-23.11.21:161][516]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-23.11.21:202][516]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.15-23.11.21:202][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-23.11.21:203][516]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-23.11.21:206][516]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-23.11.21:209][516]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2022.05.15-23.11.21:248][517]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2022.05.15-23.11.46:382][738]LogUObjectHash: Compacting FUObjectHashTables data took   3.06ms
+[2022.05.15-23.11.46:436][738]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="S:/projetos/rallyUE/brally/Saved/Autosaves/Game/NewMap_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2022.05.15-23.11.46:444][738]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/NewMap_Auto51D6A8E76484F33BA5911D68E51CF597E.tmp' to 'S:/projetos/rallyUE/brally/Saved/Autosaves/Game/NewMap_Auto5.umap'
+[2022.05.15-23.11.46:444][738]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/NewMap' took 0.101
+[2022.05.15-23.11.46:445][738]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.101
+[2022.05.15-23.11.54:949][260]BlueprintLog: New page: Recolher para Função
+[2022.05.15-23.14.10:874][712]BlueprintLog: New page: Recolher para Função
+[2022.05.15-23.15.15:410][521]BlueprintLog: New page: Compilar rodas
+[2022.05.15-23.15.15:499][521]LogUObjectHash: Compacting FUObjectHashTables data took   4.26ms
+[2022.05.15-23.15.15:806][544]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-23.15.15:853][544]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas380375F8490075DBEBDBA492FC3D36A3.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-23.15.15:869][544]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-23.15.15:870][544]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-23.17.13:161][777]BlueprintLog: New page: Compilar rodas
+[2022.05.15-23.17.13:345][777]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.05.15-23.17.13:946][823]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-23.17.13:988][823]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas00DFD2174A7D6ED5F5CA6D8D0BE9B8F3.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-23.17.14:001][823]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-23.17.14:001][823]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-23.17.15:967][ 48]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/carro" FILE="S:/projetos/rallyUE/brally/Content/scrits/carro.uasset" SILENT=true
+[2022.05.15-23.17.15:984][ 48]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/carro4619776546C41A08AF359CA606A76880.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/carro.uasset'
+[2022.05.15-23.17.15:999][ 48]AssetCheck: New page: Asset Save: carro
+[2022.05.15-23.17.15:999][ 48]LogContentValidation: Display: Validating Blueprint /Game/scrits/carro.carro
+[2022.05.15-23.17.18:580][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="S:/projetos/rallyUE/brally/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.15-23.17.18:635][258]LogUObjectHash: Compacting FUObjectHashTables data took   3.29ms
+[2022.05.15-23.17.18:660][258]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/NewMapFDFBE653425771CE4E88AA8C3EF95FEC.tmp' to 'S:/projetos/rallyUE/brally/Content/NewMap.umap'
+[2022.05.15-23.17.18:891][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="S:/projetos/rallyUE/brally/Content/NewMap_BuiltData.uasset" SILENT=true
+[2022.05.15-23.17.19:059][258]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/NewMap_BuiltData3FD015984F69426208B1D284EF5E9807.tmp' to 'S:/projetos/rallyUE/brally/Content/NewMap_BuiltData.uasset'
+[2022.05.15-23.17.19:124][258]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.15-23.17.19:124][258]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2022.05.15-23.17.19:124][258]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2022.05.15-23.17.20:672][383]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-23.17.20:678][383]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-23.17.20:679][383]PIE: New page: Sessão de PIE : NewMap (15 de mai de 2022 17:17:20)
+[2022.05.15-23.17.20:716][383]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.05.15-23.17.20:718][383]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002396s)
+[2022.05.15-23.17.20:719][383]LogAIModule: Creating AISystem for world NewMap
+[2022.05.15-23.17.20:719][383]LogPlayLevel: PIE: World Init took: (0.001318s)
+[2022.05.15-23.17.20:719][383]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003890s)
+[2022.05.15-23.17.20:756][383]LogUObjectHash: Compacting FUObjectHashTables data took   2.96ms
+[2022.05.15-23.17.20:758][383]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2022.05.15-23.17.20:758][383]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-23.17.20:758][383]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-23.17.20:758][383]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-23.17.20:758][383]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-23.17.20:758][383]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-23.17.20:758][383]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-23.17.20:758][383]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-23.17.20:758][383]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-23.17.20:758][383]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.15-23.17.20:758][383]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.15-23.17.20:758][383]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.15-23.17.20:758][383]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-23.17.20:762][383]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-23.17.20:762][383]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-23.17.20:771][383]LogAudioMixer: Display: Using Audio Device SMART TV (NVIDIA High Definition Audio)
+[2022.05.15-23.17.20:772][383]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-23.17.20:772][383]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-23.17.20:772][383]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-23.17.20:772][383]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-23.17.20:772][383]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-23.17.20:772][383]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-23.17.20:773][383]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-23.17.20:773][383]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-23.17.20:774][383]LogInit: FAudioDevice initialized.
+[2022.05.15-23.17.20:774][383]LogAudio: Display: Audio Device (ID: 18) registered with world 'NewMap'.
+[2022.05.15-23.17.20:781][383]LogLoad: Game class is 'GameModeBase'
+[2022.05.15-23.17.20:782][383]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.05.15-20.17.20
+[2022.05.15-23.17.20:782][383]LogWorld: Bringing up level for play took: 0.000808
+[2022.05.15-23.17.20:782][383]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2022.05.15-23.17.20:811][383]PIE: Servidor conectado
+[2022.05.15-23.17.20:811][383]PIE: Play in editor total start time 0,133 seconds.
+[2022.05.15-23.17.28:102][861]LogEditorViewport: Clicking on Actor (LMB): carro_C (carro)
+[2022.05.15-23.17.40:848][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-23.17.40:848][335]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.05.15-23.17.40:848][335]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-23.17.40:849][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-23.17.40:917][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-23.17.40:929][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-23.17.40:965][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-23.17.40:965][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-23.17.40:966][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-23.17.40:991][335]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.05.15-23.17.41:038][336]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2022.05.15-23.18.47:848][629]BlueprintLog: New page: Compilar rodas
+[2022.05.15-23.18.47:929][629]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2022.05.15-23.18.48:451][673]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-23.18.48:493][673]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas497102E14D9E04B361659D8A5AE68741.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-23.18.48:507][673]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-23.18.48:507][673]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-23.18.49:692][804]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/carro" FILE="S:/projetos/rallyUE/brally/Content/scrits/carro.uasset" SILENT=true
+[2022.05.15-23.18.49:717][804]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/carroFA99D2B94D26AD96E89CE88333D0A105.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/carro.uasset'
+[2022.05.15-23.18.49:731][804]AssetCheck: New page: Asset Save: carro
+[2022.05.15-23.18.49:731][804]LogContentValidation: Display: Validating Blueprint /Game/scrits/carro.carro
+[2022.05.15-23.18.51:114][881]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-23.18.51:121][881]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-23.18.51:121][881]PIE: New page: Sessão de PIE : NewMap (15 de mai de 2022 17:18:51)
+[2022.05.15-23.18.51:121][881]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.05.15-23.18.51:125][881]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004078s)
+[2022.05.15-23.18.51:127][881]LogAIModule: Creating AISystem for world NewMap
+[2022.05.15-23.18.51:127][881]LogPlayLevel: PIE: World Init took: (0.001371s)
+[2022.05.15-23.18.51:127][881]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.005746s)
+[2022.05.15-23.18.51:163][881]LogUObjectHash: Compacting FUObjectHashTables data took   3.45ms
+[2022.05.15-23.18.51:164][881]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2022.05.15-23.18.51:164][881]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-23.18.51:164][881]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-23.18.51:165][881]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-23.18.51:165][881]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-23.18.51:165][881]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-23.18.51:165][881]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-23.18.51:165][881]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-23.18.51:165][881]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-23.18.51:165][881]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.15-23.18.51:165][881]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.15-23.18.51:165][881]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.15-23.18.51:165][881]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-23.18.51:168][881]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-23.18.51:168][881]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-23.18.51:176][881]LogAudioMixer: Display: Using Audio Device SMART TV (NVIDIA High Definition Audio)
+[2022.05.15-23.18.51:177][881]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-23.18.51:177][881]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-23.18.51:177][881]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-23.18.51:177][881]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-23.18.51:178][881]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-23.18.51:178][881]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-23.18.51:179][881]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-23.18.51:179][881]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-23.18.51:179][881]LogInit: FAudioDevice initialized.
+[2022.05.15-23.18.51:179][881]LogAudio: Display: Audio Device (ID: 19) registered with world 'NewMap'.
+[2022.05.15-23.18.51:185][881]LogLoad: Game class is 'GameModeBase'
+[2022.05.15-23.18.51:185][881]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.05.15-20.18.51
+[2022.05.15-23.18.51:186][881]LogWorld: Bringing up level for play took: 0.000819
+[2022.05.15-23.18.51:186][881]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2022.05.15-23.18.51:188][881]PIE: Servidor conectado
+[2022.05.15-23.18.51:189][881]PIE: Play in editor total start time 0,07 seconds.
+[2022.05.15-23.19.02:743][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-23.19.02:743][600]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.05.15-23.19.02:743][600]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-23.19.02:744][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-23.19.02:756][600]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-23.19.02:768][600]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-23.19.02:800][600]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.15-23.19.02:800][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-23.19.02:801][600]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-23.19.02:803][600]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-23.19.02:807][600]LogUObjectHash: Compacting FUObjectHashTables data took   2.62ms
+[2022.05.15-23.19.02:853][601]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.05.15-23.20.28:057][647]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-23.20.28:101][647]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodas92780F344E500B5F4846A6BDCA6D28BB.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-23.20.28:117][647]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-23.20.28:117][647]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-23.20.28:536][693]BlueprintLog: New page: Compilar rodas
+[2022.05.15-23.20.28:631][693]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2022.05.15-23.20.29:306][763]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/rodas" FILE="S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset" SILENT=true
+[2022.05.15-23.20.29:347][763]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/rodasC313261747B9C7F02A9368B6B81BEAFC.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/rodas.uasset'
+[2022.05.15-23.20.29:361][763]AssetCheck: New page: Asset Save: rodas
+[2022.05.15-23.20.29:361][763]LogContentValidation: Display: Validating Blueprint /Game/scrits/rodas.rodas
+[2022.05.15-23.20.30:295][870]BlueprintLog: New page: Compilar carro
+[2022.05.15-23.20.30:409][870]LogUObjectHash: Compacting FUObjectHashTables data took   3.78ms
+[2022.05.15-23.20.30:832][904]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/carro" FILE="S:/projetos/rallyUE/brally/Content/scrits/carro.uasset" SILENT=true
+[2022.05.15-23.20.30:851][904]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/carro2AC7AAB54DBB63D41387B89B8D7DCE2B.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/carro.uasset'
+[2022.05.15-23.20.30:866][904]AssetCheck: New page: Asset Save: carro
+[2022.05.15-23.20.30:866][904]LogContentValidation: Display: Validating Blueprint /Game/scrits/carro.carro
+[2022.05.15-23.20.32:108][976]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-23.20.32:115][976]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-23.20.32:115][976]PIE: New page: Sessão de PIE : NewMap (15 de mai de 2022 17:20:32)
+[2022.05.15-23.20.32:147][976]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.05.15-23.20.32:149][976]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002550s)
+[2022.05.15-23.20.32:151][976]LogAIModule: Creating AISystem for world NewMap
+[2022.05.15-23.20.32:151][976]LogPlayLevel: PIE: World Init took: (0.001685s)
+[2022.05.15-23.20.32:151][976]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.004493s)
+[2022.05.15-23.20.32:188][976]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2022.05.15-23.20.32:188][976]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2022.05.15-23.20.32:188][976]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-23.20.32:189][976]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-23.20.32:189][976]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-23.20.32:189][976]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-23.20.32:189][976]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-23.20.32:189][976]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-23.20.32:189][976]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-23.20.32:189][976]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-23.20.32:189][976]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.15-23.20.32:189][976]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.15-23.20.32:189][976]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.15-23.20.32:189][976]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-23.20.32:192][976]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-23.20.32:192][976]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-23.20.32:201][976]LogAudioMixer: Display: Using Audio Device SMART TV (NVIDIA High Definition Audio)
+[2022.05.15-23.20.32:201][976]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-23.20.32:201][976]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-23.20.32:201][976]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-23.20.32:202][976]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-23.20.32:202][976]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-23.20.32:202][976]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-23.20.32:203][976]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-23.20.32:203][976]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-23.20.32:203][976]LogInit: FAudioDevice initialized.
+[2022.05.15-23.20.32:203][976]LogAudio: Display: Audio Device (ID: 20) registered with world 'NewMap'.
+[2022.05.15-23.20.32:215][976]LogLoad: Game class is 'GameModeBase'
+[2022.05.15-23.20.32:216][976]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.05.15-20.20.32
+[2022.05.15-23.20.32:216][976]LogWorld: Bringing up level for play took: 0.000788
+[2022.05.15-23.20.32:217][976]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2022.05.15-23.20.32:219][976]PIE: Servidor conectado
+[2022.05.15-23.20.32:220][976]PIE: Play in editor total start time 0,106 seconds.
+[2022.05.15-23.20.55:559][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-23.20.55:559][350]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.05.15-23.20.55:559][350]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-23.20.55:559][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-23.20.55:574][350]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-23.20.55:587][350]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-23.20.55:617][350]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.15-23.20.55:618][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-23.20.55:619][350]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-23.20.55:621][350]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-23.20.55:624][350]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.05.15-23.20.55:654][351]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2022.05.15-23.21.38:574][192]BlueprintLog: New page: Compilar carro
+[2022.05.15-23.21.38:661][192]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2022.05.15-23.21.39:412][252]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/scrits/carro" FILE="S:/projetos/rallyUE/brally/Content/scrits/carro.uasset" SILENT=true
+[2022.05.15-23.21.39:430][252]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/carroCA25016C436D6074915AFEA6C1F8A64A.tmp' to 'S:/projetos/rallyUE/brally/Content/scrits/carro.uasset'
+[2022.05.15-23.21.39:444][252]AssetCheck: New page: Asset Save: carro
+[2022.05.15-23.21.39:444][252]LogContentValidation: Display: Validating Blueprint /Game/scrits/carro.carro
+[2022.05.15-23.22.16:777][831]Cmd: POLY SELECT ADJACENT WALLS
+[2022.05.15-23.22.24:683][186]LogActorFactory: Actor Factory created Cube
+[2022.05.15-23.22.26:112][189]LogActorFactory: Actor Factory created Cube
+[2022.05.15-23.22.33:040][686]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-23.22.33:046][686]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-23.22.33:046][686]PIE: New page: Sessão de PIE : NewMap (15 de mai de 2022 17:22:33)
+[2022.05.15-23.22.33:074][686]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.05.15-23.22.33:077][686]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002551s)
+[2022.05.15-23.22.33:078][686]LogAIModule: Creating AISystem for world NewMap
+[2022.05.15-23.22.33:078][686]LogPlayLevel: PIE: World Init took: (0.001320s)
+[2022.05.15-23.22.33:078][686]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.004076s)
+[2022.05.15-23.22.33:114][686]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2022.05.15-23.22.33:116][686]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2022.05.15-23.22.33:116][686]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-23.22.33:116][686]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-23.22.33:116][686]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-23.22.33:116][686]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-23.22.33:116][686]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-23.22.33:116][686]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-23.22.33:116][686]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-23.22.33:116][686]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-23.22.33:116][686]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.15-23.22.33:116][686]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.15-23.22.33:116][686]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.15-23.22.33:116][686]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-23.22.33:119][686]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-23.22.33:119][686]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-23.22.33:129][686]LogAudioMixer: Display: Using Audio Device SMART TV (NVIDIA High Definition Audio)
+[2022.05.15-23.22.33:130][686]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-23.22.33:130][686]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-23.22.33:130][686]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-23.22.33:130][686]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-23.22.33:130][686]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-23.22.33:130][686]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-23.22.33:141][686]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-23.22.33:141][686]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-23.22.33:141][686]LogInit: FAudioDevice initialized.
+[2022.05.15-23.22.33:141][686]LogAudio: Display: Audio Device (ID: 21) registered with world 'NewMap'.
+[2022.05.15-23.22.33:148][686]LogLoad: Game class is 'GameModeBase'
+[2022.05.15-23.22.33:149][686]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.05.15-20.22.33
+[2022.05.15-23.22.33:149][686]LogWorld: Bringing up level for play took: 0.000872
+[2022.05.15-23.22.33:149][686]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2022.05.15-23.22.33:151][686]PIE: Servidor conectado
+[2022.05.15-23.22.33:152][686]PIE: Play in editor total start time 0,107 seconds.
+[2022.05.15-23.22.38:353][  7]LogEditorViewport: Clicking on Actor (LMB): carro_C (carro)
+[2022.05.15-23.22.52:520][553]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.05.15-23.22.54:166][642]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:166][642]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:195][645]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:195][645]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:244][649]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:244][649]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:286][652]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:286][652]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:330][655]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:330][655]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:357][657]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:357][657]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:400][660]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:420][660]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:429][661]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:429][661]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:451][663]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:452][663]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:484][666]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:484][666]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:513][668]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:513][668]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:540][670]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:540][670]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:696][681]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:696][681]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:710][682]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:710][682]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:725][683]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:726][683]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:740][684]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:740][684]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:782][687]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.54:783][687]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.56:390][768]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.56:390][768]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.56:473][774]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.22.56:473][774]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.14:527][ 55]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.15:481][108]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.15:481][108]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.15:536][112]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.15:536][112]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.15:604][117]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.15:604][117]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.15:755][128]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.15:755][128]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.15:852][135]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.15:852][135]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.15:892][138]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.15:892][138]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.15:977][144]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.15:977][144]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.16:056][150]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.16:056][150]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.16:195][160]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.16:195][160]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.16:358][172]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.16:358][172]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.16:523][184]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.16:523][184]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.18:558][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-23.23.18:558][304]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.05.15-23.23.18:558][304]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-23.23.18:558][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-23.23.18:570][304]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-23.23.18:589][304]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-23.23.18:622][304]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.15-23.23.18:622][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-23.23.18:623][304]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-23.23.18:627][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-23.23.18:632][304]LogUObjectHash: Compacting FUObjectHashTables data took   3.73ms
+[2022.05.15-23.23.19:054][305]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2022.05.15-23.23.21:392][476]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2022.05.15-23.23.21:416][476]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2022.05.15-23.23.33:961][344]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-23.23.33:966][344]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-23.23.33:966][344]PIE: New page: Sessão de PIE : NewMap (15 de mai de 2022 17:23:33)
+[2022.05.15-23.23.34:005][344]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.05.15-23.23.34:009][344]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003326s)
+[2022.05.15-23.23.34:010][344]LogAIModule: Creating AISystem for world NewMap
+[2022.05.15-23.23.34:010][344]LogPlayLevel: PIE: World Init took: (0.001299s)
+[2022.05.15-23.23.34:010][344]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.004824s)
+[2022.05.15-23.23.34:045][344]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2022.05.15-23.23.34:047][344]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2022.05.15-23.23.34:047][344]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-23.23.34:047][344]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-23.23.34:047][344]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-23.23.34:047][344]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-23.23.34:047][344]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-23.23.34:047][344]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-23.23.34:047][344]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-23.23.34:047][344]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-23.23.34:048][344]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.15-23.23.34:048][344]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.15-23.23.34:048][344]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.15-23.23.34:048][344]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-23.23.34:050][344]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-23.23.34:051][344]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-23.23.34:062][344]LogAudioMixer: Display: Using Audio Device SMART TV (NVIDIA High Definition Audio)
+[2022.05.15-23.23.34:062][344]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-23.23.34:062][344]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-23.23.34:062][344]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-23.23.34:062][344]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-23.23.34:062][344]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-23.23.34:062][344]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-23.23.34:064][344]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-23.23.34:064][344]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-23.23.34:064][344]LogInit: FAudioDevice initialized.
+[2022.05.15-23.23.34:064][344]LogAudio: Display: Audio Device (ID: 22) registered with world 'NewMap'.
+[2022.05.15-23.23.34:074][344]LogLoad: Game class is 'GameModeBase'
+[2022.05.15-23.23.34:075][344]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.05.15-20.23.34
+[2022.05.15-23.23.34:075][344]LogWorld: Bringing up level for play took: 0.000829
+[2022.05.15-23.23.34:075][344]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2022.05.15-23.23.34:077][344]PIE: Servidor conectado
+[2022.05.15-23.23.34:078][344]PIE: Play in editor total start time 0,112 seconds.
+[2022.05.15-23.23.41:540][832]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.05.15-23.23.42:460][874]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.42:460][874]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.42:734][893]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.42:734][893]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.43:881][960]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.43:881][960]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.43:923][963]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.43:923][963]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:180][ 33]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:180][ 33]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:223][ 36]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:223][ 36]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:282][ 40]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:282][ 40]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:338][ 44]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:356][ 44]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:364][ 45]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:364][ 45]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:373][ 46]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:373][ 46]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:397][ 48]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:397][ 48]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:412][ 49]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:412][ 49]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:426][ 50]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:426][ 50]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:441][ 51]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:441][ 51]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:455][ 52]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:455][ 52]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:470][ 53]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.45:470][ 53]PIE: Warning: Mobility of /Game/UEDPIE_0_NewMap.NewMap:PersistentLevel.Cube_6 : StaticMeshComponent0 has to be 'Movable' if you'd like to move. 
+[2022.05.15-23.23.46:590][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-23.23.46:590][112]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.05.15-23.23.46:590][112]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-23.23.46:591][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-23.23.46:603][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-23.23.46:622][112]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-23.23.46:658][112]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-23.23.46:658][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-23.23.46:659][112]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-23.23.46:665][112]LogUObjectHash: Compacting FUObjectHashTables data took   2.68ms
+[2022.05.15-23.23.46:795][113]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2022.05.15-23.23.48:159][204]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2022.05.15-23.23.48:184][204]LogSlate: Window 'Registro de Mensagem' being destroyed
+[2022.05.15-23.23.55:095][764]Cmd: POLY SELECT ADJACENT WALLS
+[2022.05.15-23.23.58:941][ 58]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2022.05.15-23.23.59:642][109]Cmd: DELETE
+[2022.05.15-23.23.59:651][109]Cmd: ACTOR DELETE
+[2022.05.15-23.24.00:200][109]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.05.15-23.24.00:237][109]LogUObjectHash: Compacting FUObjectHashTables data took   2.75ms
+[2022.05.15-23.24.00:239][109]LogEditorActor: Deleted 1 Actors (0.134 secs)
+[2022.05.15-23.24.03:098][340]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-23.24.03:104][340]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-23.24.03:104][340]PIE: New page: Sessão de PIE : NewMap (15 de mai de 2022 17:24:03)
+[2022.05.15-23.24.03:120][340]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.05.15-23.24.03:123][340]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002397s)
+[2022.05.15-23.24.03:124][340]LogAIModule: Creating AISystem for world NewMap
+[2022.05.15-23.24.03:124][340]LogPlayLevel: PIE: World Init took: (0.001250s)
+[2022.05.15-23.24.03:124][340]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003814s)
+[2022.05.15-23.24.03:161][340]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.05.15-23.24.03:162][340]LogAudio: Display: Creating Audio Device:                 Id: 23, Scope: Unique, Realtime: True
+[2022.05.15-23.24.03:162][340]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-23.24.03:162][340]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-23.24.03:162][340]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-23.24.03:162][340]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-23.24.03:162][340]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-23.24.03:162][340]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-23.24.03:162][340]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-23.24.03:162][340]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-23.24.03:163][340]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.15-23.24.03:163][340]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.15-23.24.03:163][340]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.15-23.24.03:163][340]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-23.24.03:166][340]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-23.24.03:166][340]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-23.24.03:174][340]LogAudioMixer: Display: Using Audio Device SMART TV (NVIDIA High Definition Audio)
+[2022.05.15-23.24.03:175][340]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-23.24.03:175][340]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-23.24.03:175][340]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-23.24.03:175][340]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-23.24.03:175][340]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-23.24.03:175][340]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-23.24.03:177][340]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-23.24.03:177][340]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-23.24.03:177][340]LogInit: FAudioDevice initialized.
+[2022.05.15-23.24.03:177][340]LogAudio: Display: Audio Device (ID: 23) registered with world 'NewMap'.
+[2022.05.15-23.24.03:189][340]LogLoad: Game class is 'GameModeBase'
+[2022.05.15-23.24.03:190][340]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.05.15-20.24.03
+[2022.05.15-23.24.03:190][340]LogWorld: Bringing up level for play took: 0.000715
+[2022.05.15-23.24.03:191][340]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2022.05.15-23.24.03:193][340]PIE: Servidor conectado
+[2022.05.15-23.24.03:193][340]PIE: Play in editor total start time 0,09 seconds.
+[2022.05.15-23.24.05:880][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-23.24.05:880][512]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.05.15-23.24.05:880][512]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-23.24.05:880][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-23.24.05:893][512]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-23.24.05:898][512]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-23.24.05:935][512]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-23.24.05:936][512]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-23.24.05:937][512]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-23.24.05:942][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.50ms
+[2022.05.15-23.24.05:959][513]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2022.05.15-23.24.08:785][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap" FILE="S:/projetos/rallyUE/brally/Content/NewMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2022.05.15-23.24.08:820][732]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.05.15-23.24.08:828][732]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/NewMap51A9CA4E4B07237A027805AF2342C5D8.tmp' to 'S:/projetos/rallyUE/brally/Content/NewMap.umap'
+[2022.05.15-23.24.08:858][732]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/NewMap_BuiltData" FILE="S:/projetos/rallyUE/brally/Content/NewMap_BuiltData.uasset" SILENT=true
+[2022.05.15-23.24.08:908][732]LogSavePackage: Moving 'S:/projetos/rallyUE/brally/Saved/NewMap_BuiltData2F8486034423C7272992CB927CAA0FD1.tmp' to 'S:/projetos/rallyUE/brally/Content/NewMap_BuiltData.uasset'
+[2022.05.15-23.24.08:921][732]AssetCheck: New page: Asset Save: multiple assets
+[2022.05.15-23.24.08:921][732]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/NewMap_BuiltData.NewMap_BuiltData
+[2022.05.15-23.24.08:921][732]LogContentValidation: Display: Validating World /Game/NewMap.NewMap
+[2022.05.15-23.25.07:800][ 75]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-23.25.07:805][ 75]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-23.25.07:806][ 75]PIE: New page: Sessão de PIE : NewMap (15 de mai de 2022 17:25:07)
+[2022.05.15-23.25.07:853][ 75]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.05.15-23.25.07:856][ 75]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002647s)
+[2022.05.15-23.25.07:857][ 75]LogAIModule: Creating AISystem for world NewMap
+[2022.05.15-23.25.07:857][ 75]LogPlayLevel: PIE: World Init took: (0.001474s)
+[2022.05.15-23.25.07:857][ 75]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.004315s)
+[2022.05.15-23.25.07:895][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2022.05.15-23.25.07:896][ 75]LogAudio: Display: Creating Audio Device:                 Id: 24, Scope: Unique, Realtime: True
+[2022.05.15-23.25.07:896][ 75]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-23.25.07:896][ 75]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-23.25.07:897][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-23.25.07:897][ 75]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-23.25.07:897][ 75]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-23.25.07:897][ 75]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-23.25.07:897][ 75]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-23.25.07:897][ 75]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-23.25.07:897][ 75]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.15-23.25.07:897][ 75]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.15-23.25.07:897][ 75]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.15-23.25.07:897][ 75]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-23.25.07:900][ 75]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-23.25.07:900][ 75]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-23.25.07:910][ 75]LogAudioMixer: Display: Using Audio Device SMART TV (NVIDIA High Definition Audio)
+[2022.05.15-23.25.07:910][ 75]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-23.25.07:910][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-23.25.07:910][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-23.25.07:911][ 75]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-23.25.07:911][ 75]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-23.25.07:911][ 75]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-23.25.07:912][ 75]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-23.25.07:912][ 75]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-23.25.07:912][ 75]LogInit: FAudioDevice initialized.
+[2022.05.15-23.25.07:912][ 75]LogAudio: Display: Audio Device (ID: 24) registered with world 'NewMap'.
+[2022.05.15-23.25.07:923][ 75]LogLoad: Game class is 'GameModeBase'
+[2022.05.15-23.25.07:924][ 75]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.05.15-20.25.07
+[2022.05.15-23.25.07:924][ 75]LogWorld: Bringing up level for play took: 0.000844
+[2022.05.15-23.25.07:924][ 75]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2022.05.15-23.25.07:927][ 75]PIE: Servidor conectado
+[2022.05.15-23.25.07:927][ 75]PIE: Play in editor total start time 0,122 seconds.
+[2022.05.15-23.25.14:843][475]LogEditorViewport: Clicking on Actor (LMB): carro_C (carro)
+[2022.05.15-23.25.37:457][247]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.05.15-23.25.48:316][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-23.25.48:316][866]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.05.15-23.25.48:316][866]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-23.25.48:316][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-23.25.48:327][866]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-23.25.48:332][866]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-23.25.48:367][866]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-23.25.48:368][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-23.25.48:369][866]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-23.25.48:376][866]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2022.05.15-23.25.48:395][867]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2022.05.15-23.26.43:268][758]LogTemp: Repeating last play command: Selected Viewport
+[2022.05.15-23.26.43:274][758]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.05.15-23.26.43:274][758]PIE: New page: Sessão de PIE : NewMap (15 de mai de 2022 17:26:43)
+[2022.05.15-23.26.43:329][758]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_NewMap
+[2022.05.15-23.26.43:331][758]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002440s)
+[2022.05.15-23.26.43:332][758]LogAIModule: Creating AISystem for world NewMap
+[2022.05.15-23.26.43:333][758]LogPlayLevel: PIE: World Init took: (0.001221s)
+[2022.05.15-23.26.43:333][758]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/NewMap.NewMap to /Game/UEDPIE_0_NewMap.NewMap (0.003846s)
+[2022.05.15-23.26.43:370][758]LogUObjectHash: Compacting FUObjectHashTables data took   2.77ms
+[2022.05.15-23.26.43:372][758]LogAudio: Display: Creating Audio Device:                 Id: 25, Scope: Unique, Realtime: True
+[2022.05.15-23.26.43:372][758]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.15-23.26.43:372][758]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.15-23.26.43:372][758]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.15-23.26.43:372][758]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.15-23.26.43:372][758]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.15-23.26.43:372][758]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.15-23.26.43:372][758]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.15-23.26.43:372][758]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.15-23.26.43:373][758]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.15-23.26.43:373][758]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.15-23.26.43:373][758]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.15-23.26.43:373][758]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.15-23.26.43:376][758]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.15-23.26.43:376][758]LogAudioMixer: Display: 1: FrontRight
+[2022.05.15-23.26.43:385][758]LogAudioMixer: Display: Using Audio Device SMART TV (NVIDIA High Definition Audio)
+[2022.05.15-23.26.43:386][758]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.15-23.26.43:386][758]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.15-23.26.43:386][758]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.15-23.26.43:386][758]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.15-23.26.43:386][758]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.15-23.26.43:386][758]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.15-23.26.43:388][758]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.15-23.26.43:388][758]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.15-23.26.43:388][758]LogInit: FAudioDevice initialized.
+[2022.05.15-23.26.43:388][758]LogAudio: Display: Audio Device (ID: 25) registered with world 'NewMap'.
+[2022.05.15-23.26.43:394][758]LogLoad: Game class is 'GameModeBase'
+[2022.05.15-23.26.43:395][758]LogWorld: Bringing World /Game/UEDPIE_0_NewMap.NewMap up for play (max tick rate 0) at 2022.05.15-20.26.43
+[2022.05.15-23.26.43:395][758]LogWorld: Bringing up level for play took: 0.000726
+[2022.05.15-23.26.43:396][758]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2022.05.15-23.26.43:398][758]PIE: Servidor conectado
+[2022.05.15-23.26.43:399][758]PIE: Play in editor total start time 0,126 seconds.
+[2022.05.15-23.26.49:602][117]LogEditorViewport: Clicking on Actor (LMB): carro_C (carro)
+[2022.05.15-23.27.00:050][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-23.27.00:050][476]LogWorld: BeginTearingDown for /Game/UEDPIE_0_NewMap
+[2022.05.15-23.27.00:050][476]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2022.05.15-23.27.00:051][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-23.27.00:072][476]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.05.15-23.27.00:084][476]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.15-23.27.00:118][476]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.15-23.27.00:118][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-23.27.00:119][476]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.05.15-23.27.00:122][476]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.05.15-23.27.00:126][476]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2022.05.15-23.27.00:162][477]LogPlayLevel: Display: Destroying online subsystem :Context_30
