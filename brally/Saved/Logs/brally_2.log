@@ -631,3 +631,85 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.23-18.15.51:977][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
 [2022.05.23-18.15.54:842][  0]SourceControl: Controle de origem desativado
 [2022.05.23-18.15.54:842][  0]SourceControl: Controle de origem desativado
+[2022.05.23-18.15.55:067][  0]SourceControl: Controle de origem desativado
+[2022.05.23-18.15.55:117][  0]SourceControl: Controle de origem desativado
+[2022.05.23-18.15.55:221][  0]SourceControl: Controle de origem desativado
+[2022.05.23-18.15.55:365][  0]LogUProjectInfo: Found projects:
+[2022.05.23-18.16.00:192][  0]LogOpenImageDenoise: OIDN starting up
+[2022.05.23-18.16.02:211][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.05.23-18.16.02:671][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.23-18.16.02:671][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.05.23-18.16.04:859][  0]LogCollectionManager: Loaded 0 collections in 0.001126 seconds
+[2022.05.23-18.16.05:212][  0]LogFileCache: Scanning file cache for directory 'S:/projetos/rallyUE/brally/Saved/Collections/' took 0.00s
+[2022.05.23-18.16.05:212][  0]LogFileCache: Scanning file cache for directory 'S:/projetos/rallyUE/brally/Content/Developers/erick/Collections/' took 0.00s
+[2022.05.23-18.16.05:212][  0]LogFileCache: Scanning file cache for directory 'S:/projetos/rallyUE/brally/Content/Collections/' took 0.00s
+[2022.05.23-18.16.05:212][  0]LogOcInput: OculusInput pre-init called
+[2022.05.23-18.16.06:760][  0]LogEngine: Initializing Engine...
+[2022.05.23-18.16.06:823][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.05.23-18.16.06:823][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.05.23-18.16.06:823][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.05.23-18.16.06:825][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.05.23-18.16.08:383][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.05.23-18.16.08:567][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.05.23-18.16.08:567][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.05.23-18.16.08:822][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.05.23-18.16.08:885][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.05.23-18.16.08:886][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.05.23-18.16.08:886][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.05.23-18.16.08:886][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.05.23-18.16.08:886][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.05.23-18.16.08:886][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.05.23-18.16.08:886][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.05.23-18.16.08:886][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.05.23-18.16.08:886][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.05.23-18.16.08:886][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.05.23-18.16.08:886][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.05.23-18.16.08:887][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.05.23-18.16.08:887][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.05.23-18.16.08:887][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.05.23-18.16.08:887][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.05.23-18.16.08:982][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.05.23-18.16.08:982][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.05.23-18.16.09:056][  0]LogAudioMixer: Display: Using Audio Device SMART TV (NVIDIA High Definition Audio)
+[2022.05.23-18.16.09:057][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.05.23-18.16.09:147][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.05.23-18.16.09:147][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.05.23-18.16.09:149][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.05.23-18.16.09:149][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.05.23-18.16.09:149][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.05.23-18.16.09:149][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.05.23-18.16.09:149][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.05.23-18.16.09:149][  0]LogInit: FAudioDevice initialized.
+[2022.05.23-18.16.09:150][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.05.23-18.16.09:150][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.05.23-18.16.09:519][  0]LogDerivedDataCache: Saved boot cache 0.37s 94MB C:/Users/erick/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.05.23-18.16.09:519][  0]LogInit: Texture streaming: Enabled
+[2022.05.23-18.16.15:448][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.05.23-18.16.15:479][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.05.23-18.16.15:480][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.05.23-18.16.15:485][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.05.23-18.16.15:712][  0]LogInit: Transaction tracking system initialized
+[2022.05.23-18.16.16:264][  0]BlueprintLog: New page: Carregar Editor
+[2022.05.23-18.16.16:953][  0]LocalizationService: Localization service is disabled
+[2022.05.23-18.16.17:169][  0]TimingProfiler: Initialize
+[2022.05.23-18.16.17:170][  0]TimingProfiler: OnSessionChanged
+[2022.05.23-18.16.17:170][  0]LoadingProfiler: Initialize
+[2022.05.23-18.16.17:170][  0]LoadingProfiler: OnSessionChanged
+[2022.05.23-18.16.17:170][  0]NetworkingProfiler: Initialize
+[2022.05.23-18.16.17:170][  0]NetworkingProfiler: OnSessionChanged
+[2022.05.23-18.16.17:170][  0]MemoryProfiler: Initialize
+[2022.05.23-18.16.17:170][  0]MemoryProfiler: OnSessionChanged
+[2022.05.23-18.16.18:701][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.05.23-18.16.18:701][  0]LogCook: Display: Mobile HDR setting 1
+[2022.05.23-18.16.19:280][  0]LogFileCache: Scanning file cache for directory 'S:/projetos/rallyUE/brally/Content/' took 0.00s
+[2022.05.23-18.16.22:005][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.05.23-18.16.22:068][  0]SourceControl: Controle de origem desativado
+[2022.05.23-18.16.22:068][  0]LogUnrealEdMisc: Loading editor; pre map load, took 55.565
+[2022.05.23-18.16.22:068][  0]Cmd: MAP LOAD FILE="S:/projetos/rallyUE/brally/Content/NewWorld.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.05.23-18.16.22:068][  0]LightingResults: New page: Compilação de Iluminação
+[2022.05.23-18.16.22:117][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.05.23-18.16.22:117][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.05.23-18.16.22:117][  0]MapCheck: New page: Verificação de Mapa
+[2022.05.23-18.16.22:117][  0]LightingResults: New page: Compilação de Iluminação
+[2022.05.23-18.16.22:128][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.05.23-18.16.22:132][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms

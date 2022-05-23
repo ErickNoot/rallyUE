@@ -902,3 +902,14 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.05.23-18.15.49:538][  2]LogAssetRegistry: Asset discovery search completed in 116.2118 seconds
 [2022.05.23-18.15.49:995][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000310 seconds (updated 0 objects)
 [2022.05.23-18.15.50:032][  2]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.05.23-18.15.55:311][ 49]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.05.23-18.15.59:910][ 49]LogEditorViewport: Clicking on Actor (context menu): carro_C (carro)
+[2022.05.23-18.16.00:218][ 49]LogEditorViewport: Clicking on Actor (context menu): carro_C (carro)
+[2022.05.23-18.16.03:029][ 50]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2022.05.23-18.16.03:103][ 50]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (Sky Sphere)
+[2022.05.23-18.16.04:594][ 51]LogEditorViewport: Clicking on Actor (context menu): StaticMeshActor (Floor)
+[2022.05.23-18.16.08:554][254]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/scrits/carro.carro
+[2022.05.23-18.16.16:116][254]LogBlueprintEditor: Perf: 6.9 total seconds to load all 5 blueprint libraries in project. Avoid references to content in blueprint libraries to shorten this time.
+[2022.05.23-18.16.16:116][254]LogBlueprintEditor: Perf: 6.1 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureFunctionLibrary
+[2022.05.23-18.16.16:116][254]LogBlueprintEditor: Perf: 0.7 seconds loading: /Engine/ArtTools/RenderToTexture/Macros/RenderToTextureMacros
+[2022.05.23-18.16.18:358][254]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
